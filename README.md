@@ -16,13 +16,13 @@ just click on the logo where you want to be redirected
 </h1>
 <p>
 <a href="https://nptel.ac.in/">
-click here:-<img src="https://nptel.ac.in/assets/nptel_assets/images/nptel-logo.png" width ="100: heigth="100">
+click here:-<img src="https://nptel.ac.in/assets/nptel_assets/images/nptel-logo.png" width ="100" heigth="100">
 </a><br>
 <a href="https://www.rgpv.ac.in/">
 click here:-<img src="https://www.rgpv.ac.in/images/logo.png" width ="200" height="100">
 </a><br>
 <a href="https://lnct.ac.in/">
-click here:-<img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.png" width=100" height="100">
+click here:-<img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.png" width="100" height="100">
 </a>
 </p>
 </body>
