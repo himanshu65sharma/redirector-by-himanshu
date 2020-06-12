@@ -16,7 +16,7 @@ just click on the logo where you want to be redirected
 </h1>
 <p>
 <a href="https://nptel.ac.in/">
-click here:-<img src="https://nptel.ac.in/assets/nptel_assets/images/nptel-logo.png" width ="100" heigth="100">
+click here:-<img src="https://nptel.ac.in/assets/nptel_assets/images/nptel-logo.png" width ="200" heigth="200">
 </a><br>
   
   
