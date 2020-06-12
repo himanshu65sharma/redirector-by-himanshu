@@ -32,6 +32,9 @@ click here:-<img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.
 </a><br>
 <a href="http://apsurewa.ac.in/">
   click here:-<img src="http://apsurewa.ac.in/assets/images/logo.png" width="100" height="100">
+  </a><br>
+  <a href="http://apsurewa.ac.in/examination">
+  click here to fill eaxm form 
   </a>
 </p>
 </body>
